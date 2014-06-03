@@ -1,0 +1,4 @@
+SenchaWpTesting
+===============
+
+Sencha Wordpress Testing
